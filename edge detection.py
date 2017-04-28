@@ -2,14 +2,14 @@ import cv2
 import numpy as np
 import argparse
 ans=0
-th=5000
-height=50
-width=60
+th=10000
+height=80
+width=30
 
 def leftlane():
         ans=0
         for a in range(height,height+width):
-                for b in range(60,110):
+                for b in range(110,160):
                         ans=ans+edges[a][b]
                         edges[a][b]=255
         return ans
@@ -17,7 +17,7 @@ def leftlane():
 def midlane():
         ans=0
         for a in range(height,height+width):
-                for b in range(400,450):
+                for b in range(370,420):
                         ans=ans+edges[a][b]
                         edges[a][b]=255
         return ans
@@ -25,7 +25,7 @@ def midlane():
 def rightlane():
         ans=0
         for a in range(height,height+width):
-                for b in range(730,780):
+                for b in range(650,700):
                         ans=ans+edges[a][b]
                         edges[a][b]=255
         return ans
@@ -51,6 +51,7 @@ def lane():
                 ans=2
         elif ((l>th)and(m>th)and(r>th)):
                 ans=2
+        print l,m,r
         if (ans==1):
                 print "left"
         elif (ans==2):
@@ -59,7 +60,7 @@ def lane():
                 print "right"
         return 0
 
-cam = cv2.VideoCapture('video5.mp4')
+cam = cv2.VideoCapture('video2.mp4')
 ret, img = cam.read()
 #prev = img
 #frameL, frameW, frameD = img.shape
@@ -82,7 +83,7 @@ while ret:
 	frameY, frameX, frameD = img.shape
 	img = cv2.resize(img, (frameX/2, frameY/2))
 	gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-	edges = cv2.Canny(gray,120, 150, apertureSize = 3)
+	edges = cv2.Canny(gray,50, 100, apertureSize = 3)
 	I,J=edges.shape
 	I-I-1
 	J=J-1
