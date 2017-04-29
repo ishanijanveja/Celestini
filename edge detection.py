@@ -51,7 +51,10 @@ def lane():
                 ans=2
         elif ((l>th)and(m>th)and(r>th)):
                 ans=2
-        print l,m,r
+        if (l>m and l>r):
+                ans=1
+        if (r>m and r>l):
+                ans=3
         if (ans==1):
                 print "left"
         elif (ans==2):
@@ -60,7 +63,7 @@ def lane():
                 print "right"
         return 0
 
-cam = cv2.VideoCapture('video2.mp4')
+cam = cv2.VideoCapture('video7.mp4')
 ret, img = cam.read()
 #prev = img
 #frameL, frameW, frameD = img.shape
