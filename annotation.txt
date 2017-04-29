@@ -1,0 +1,207 @@
+/Users/nakulgarg/celestini/pos/1.jpg 5 741 332 9 33 785 326 16 73 805 325 15 75 840 331 9 60 853 332 17 66
+/Users/nakulgarg/celestini/pos/10.jpg 8 913 301 25 92 902 301 16 88 891 303 11 84 843 300 22 89 822 293 21 96 785 304 19 56 754 310 10 36 608 302 15 39
+/Users/nakulgarg/celestini/pos/100.jpg 3 362 321 63 136 562 307 34 93 911 312 30 118
+/Users/nakulgarg/celestini/pos/101.jpg 3 922 307 27 118 560 297 37 101 335 320 79 128
+/Users/nakulgarg/celestini/pos/102.jpg 3 311 308 80 144 560 299 35 104 932 310 36 127
+/Users/nakulgarg/celestini/pos/103.jpg 3 941 304 31 124 564 292 24 99 287 323 92 127
+/Users/nakulgarg/celestini/pos/104.jpg 3 266 315 82 140 563 304 25 106 953 318 32 128
+/Users/nakulgarg/celestini/pos/105.jpg 4 963 311 38 141 557 297 28 115 272 275 27 61 227 334 103 125
+/Users/nakulgarg/celestini/pos/106.jpg 4 263 265 26 70 210 307 84 137 550 295 37 112 972 304 37 150
+/Users/nakulgarg/celestini/pos/107.jpg 3 990 310 32 68 543 296 41 106 249 270 37 87
+/Users/nakulgarg/celestini/pos/108.jpg 3 242 275 25 88 546 305 28 104 1002 311 31 78
+/Users/nakulgarg/celestini/pos/109.jpg 3 1016 309 37 79 535 290 43 133 226 270 42 93
+/Users/nakulgarg/celestini/pos/11.jpg 7 753 305 13 44 784 301 22 58 821 292 26 97 847 293 25 96 925 286 17 111 907 285 24 108 891 295 19 96
+/Users/nakulgarg/celestini/pos/110.jpg 3 529 293 44 127 219 268 35 93 1031 304 35 86
+/Users/nakulgarg/celestini/pos/111.jpg 5 791 317 16 51 1050 297 34 87 524 291 40 126 204 261 41 102 204 261 41 102
+/Users/nakulgarg/celestini/pos/112.jpg 3 194 260 29 106 514 298 47 117 791 329 15 40
+/Users/nakulgarg/celestini/pos/113.jpg 2 792 325 9 45 515 290 28 135
+/Users/nakulgarg/celestini/pos/114.jpg 3 497 289 55 134 163 263 42 105 786 328 16 42
+/Users/nakulgarg/celestini/pos/115.jpg 3 789 319 12 52 491 287 45 141 153 258 34 105
+/Users/nakulgarg/celestini/pos/116.jpg 3 138 257 33 108 476 286 59 146 784 327 18 45
+/Users/nakulgarg/celestini/pos/117.jpg 3 783 325 15 47 469 287 67 141 125 261 31 100
+/Users/nakulgarg/celestini/pos/118.jpg 3 112 253 26 89 460 280 53 159 782 324 17 50
+/Users/nakulgarg/celestini/pos/119.jpg 3 780 323 16 51 452 278 59 168 98 249 26 82
+/Users/nakulgarg/celestini/pos/12.jpg 7 928 308 25 99 916 298 23 100 896 295 28 104 854 300 20 106 826 300 24 99 790 309 15 56 754 313 12 38
+/Users/nakulgarg/celestini/pos/120.jpg 3 430 279 73 172 85 251 23 54 775 327 24 49
+/Users/nakulgarg/celestini/pos/121.jpg 3 776 324 21 58 421 279 76 177 421 279 76 177
+/Users/nakulgarg/celestini/pos/122.jpg 2 772 329 26 54 408 281 88 173
+/Users/nakulgarg/celestini/pos/123.jpg 2 773 323 20 57 388 271 88 180
+/Users/nakulgarg/celestini/pos/124.jpg 2 388 271 60 182 772 330 20 53
+/Users/nakulgarg/celestini/pos/125.jpg 2 369 273 67 180 770 329 22 54
+/Users/nakulgarg/celestini/pos/126.jpg 2 768 328 24 55 347 264 71 182
+/Users/nakulgarg/celestini/pos/127.jpg 2 322 257 97 190 768 324 21 60
+/Users/nakulgarg/celestini/pos/128.jpg 2 766 321 23 63 308 245 77 209
+/Users/nakulgarg/celestini/pos/129.jpg 2 279 244 92 207 766 326 28 62
+/Users/nakulgarg/celestini/pos/13.jpg 7 831 303 27 103 858 303 26 103 903 305 22 97 920 304 27 96 943 304 22 107 789 312 21 63 755 316 15 46
+/Users/nakulgarg/celestini/pos/130.jpg 2 769 323 18 62 264 241 76 208
+/Users/nakulgarg/celestini/pos/131.jpg 2 223 215 97 225 769 324 17 59
+/Users/nakulgarg/celestini/pos/132.jpg 2 767 322 23 59 194 227 84 209
+/Users/nakulgarg/celestini/pos/133.jpg 2 597 313 21 55 766 321 22 59
+/Users/nakulgarg/celestini/pos/134.jpg 2 768 316 19 67 592 314 24 46
+/Users/nakulgarg/celestini/pos/135.jpg 2 586 313 27 53 766 322 23 64
+/Users/nakulgarg/celestini/pos/136.jpg 2 766 323 23 63 589 311 23 52
+/Users/nakulgarg/celestini/pos/137.jpg 2 586 310 20 57 770 317 16 68
+/Users/nakulgarg/celestini/pos/138.jpg 2 768 317 18 67 582 307 27 59
+/Users/nakulgarg/celestini/pos/139.jpg 2 582 307 22 63 771 319 16 68
+/Users/nakulgarg/celestini/pos/14.jpg 10 757 320 20 46 797 317 18 62 599 308 22 50 827 306 40 102 827 315 18 68 862 310 29 101 909 311 27 100 933 310 20 102 945 317 30 95 980 371 32 45
+/Users/nakulgarg/celestini/pos/140.jpg 2 768 315 24 71 576 310 26 52
+/Users/nakulgarg/celestini/pos/141.jpg 2 571 307 29 63 763 316 31 69
+/Users/nakulgarg/celestini/pos/142.jpg 2 766 316 28 71 568 305 28 65
+/Users/nakulgarg/celestini/pos/143.jpg 2 568 305 26 68 770 312 25 76
+/Users/nakulgarg/celestini/pos/144.jpg 2 775 317 20 71 567 306 17 73
+/Users/nakulgarg/celestini/pos/145.jpg 2 567 306 18 67 774 313 22 77
+/Users/nakulgarg/celestini/pos/146.jpg 3 782 313 14 77 564 307 16 65 378 283 39 53
+/Users/nakulgarg/celestini/pos/147.jpg 3 558 303 25 73 368 295 46 43 774 314 29 82
+/Users/nakulgarg/celestini/pos/148.jpg 2 780 314 23 82 554 313 23 66
+/Users/nakulgarg/celestini/pos/149.jpg 4 554 306 23 73 0 0 0 0 781 314 28 83 328 280 58 71
+/Users/nakulgarg/celestini/pos/15.jpg 9 762 322 14 50 600 318 20 43 800 323 17 60 837 311 39 103 871 304 29 118 921 311 28 108 944 305 24 124 960 319 27 111 991 373 35 51
+/Users/nakulgarg/celestini/pos/150.jpg 3 780 313 34 88 546 301 27 86 319 285 41 54
+/Users/nakulgarg/celestini/pos/151.jpg 3 289 285 50 62 545 304 21 81 789 310 25 88
+/Users/nakulgarg/celestini/pos/152.jpg 3 789 311 31 90 536 305 31 82 278 286 48 61
+/Users/nakulgarg/celestini/pos/153.jpg 3 240 279 67 71 537 303 25 88 789 320 35 89
+/Users/nakulgarg/celestini/pos/154.jpg 3 792 309 32 100 527 305 25 85 225 278 60 73
+/Users/nakulgarg/celestini/pos/155.jpg 3 191 277 71 75 518 300 36 101 800 312 29 104
+/Users/nakulgarg/celestini/pos/156.jpg 2 801 315 35 101 510 305 37 96
+/Users/nakulgarg/celestini/pos/157.jpg 2 503 304 43 98 802 317 37 100
+/Users/nakulgarg/celestini/pos/158.jpg 2 812 317 27 97 500 303 39 96
+/Users/nakulgarg/celestini/pos/159.jpg 2 500 307 31 92 813 316 36 104
+/Users/nakulgarg/celestini/pos/16.jpg 9 765 330 21 44 806 327 15 64 851 314 30 106 880 311 1 3 880 311 26 117 932 321 27 102 953 309 20 121 969 314 31 119 1010 380 20 45
+/Users/nakulgarg/celestini/pos/160.jpg 2 483 302 41 107 821 311 37 122
+/Users/nakulgarg/celestini/pos/161.jpg 2 824 314 43 121 483 300 29 112
+/Users/nakulgarg/celestini/pos/162.jpg 2 470 296 37 117 834 316 34 126
+/Users/nakulgarg/celestini/pos/163.jpg 2 836 308 44 131 461 299 39 115
+/Users/nakulgarg/celestini/pos/164.jpg 2 446 298 41 129 840 316 43 129
+/Users/nakulgarg/celestini/pos/165.jpg 2 844 309 53 146 438 293 42 140
+/Users/nakulgarg/celestini/pos/166.jpg 2 423 279 44 154 846 303 56 153
+/Users/nakulgarg/celestini/pos/167.jpg 2 860 288 55 181 406 285 57 148
+/Users/nakulgarg/celestini/pos/168.jpg 2 391 287 57 158 862 309 52 156
+/Users/nakulgarg/celestini/pos/169.jpg 2 875 304 57 171 376 265 55 180
+/Users/nakulgarg/celestini/pos/17.jpg 11 599 313 22 53 766 324 18 50 809 324 23 65 843 320 20 74 859 308 34 121 886 307 36 125 946 311 21 117 964 306 28 121 0 0 0 0 989 306 25 139 1018 378 27 55
+/Users/nakulgarg/celestini/pos/170.jpg 2 887 297 54 179 362 277 49 170
+/Users/nakulgarg/celestini/pos/171.jpg 4 332 270 67 183 263 297 76 152 202 274 16 38 901 300 55 180
+/Users/nakulgarg/celestini/pos/172.jpg 3 305 275 71 178 233 297 75 156 917 302 51 174
+/Users/nakulgarg/celestini/pos/173.jpg 3 925 295 68 184 281 271 59 176 213 302 68 152
+/Users/nakulgarg/celestini/pos/174.jpg 3 186 297 65 144 238 257 89 196 935 292 74 186
+/Users/nakulgarg/celestini/pos/175.jpg 3 943 293 101 195 208 256 85 186 161 301 53 127
+/Users/nakulgarg/celestini/pos/176.jpg 1 188 245 55 180
+/Users/nakulgarg/celestini/pos/177.jpg 1 969 274 82 191
+/Users/nakulgarg/celestini/pos/178.jpg 1 1026 269 68 188
+/Users/nakulgarg/celestini/pos/179.jpg 1 1060 274 47 150
+/Users/nakulgarg/celestini/pos/18.jpg 10 1028 376 35 62 1004 304 25 134 976 298 32 139 957 315 22 121 896 304 28 127 869 312 32 119 850 320 21 72 816 319 17 63 771 320 11 50 602 313 21 54
+/Users/nakulgarg/celestini/pos/180.jpg 0
+/Users/nakulgarg/celestini/pos/181.jpg 0
+/Users/nakulgarg/celestini/pos/182.jpg 2 572 319 16 53 571 319 17 54
+/Users/nakulgarg/celestini/pos/183.jpg 1 569 318 19 66
+/Users/nakulgarg/celestini/pos/184.jpg 1 569 318 19 66
+/Users/nakulgarg/celestini/pos/185.jpg 1 569 318 19 66
+/Users/nakulgarg/celestini/pos/186.jpg 1 569 318 19 66
+/Users/nakulgarg/celestini/pos/187.jpg 1 556 323 24 64
+/Users/nakulgarg/celestini/pos/188.jpg 1 556 323 24 64
+/Users/nakulgarg/celestini/pos/189.jpg 2 546 308 29 80 571 321 19 67
+/Users/nakulgarg/celestini/pos/19.jpg 10 775 323 13 53 815 318 26 70 848 317 28 78 875 305 35 140 904 302 34 141 966 323 26 110 988 305 29 131 1017 300 28 147 1039 382 35 55 601 314 20 50
+/Users/nakulgarg/celestini/pos/190.jpg 1 548 314 25 79
+/Users/nakulgarg/celestini/pos/191.jpg 1 548 314 25 79
+/Users/nakulgarg/celestini/pos/192.jpg 1 548 314 25 79
+/Users/nakulgarg/celestini/pos/193.jpg 2 537 314 22 77 562 327 17 70
+/Users/nakulgarg/celestini/pos/194.jpg 2 558 328 21 69 537 317 24 84
+/Users/nakulgarg/celestini/pos/195.jpg 2 537 317 14 84 550 327 24 73
+/Users/nakulgarg/celestini/pos/196.jpg 2 547 327 27 73 525 307 24 99
+/Users/nakulgarg/celestini/pos/197.jpg 3 518 306 24 94 542 316 22 86 565 313 19 90
+/Users/nakulgarg/celestini/pos/198.jpg 3 558 315 26 86 538 325 20 77 515 301 25 101
+/Users/nakulgarg/celestini/pos/199.jpg 3 511 315 21 87 534 319 19 92 553 319 26 91
+/Users/nakulgarg/celestini/pos/2.jpg 8 612 330 16 42 744 334 8 37 767 335 12 43 785 334 20 62 805 334 20 62 840 333 13 64 853 331 11 68 863 331 13 71
+/Users/nakulgarg/celestini/pos/20.jpg 10 1028 320 31 127 1009 306 19 141 1008 306 1 7 976 313 32 122 920 308 31 133 886 302 36 135 863 320 20 79 820 316 28 76 777 324 13 44 600 312 23 55
+/Users/nakulgarg/celestini/pos/200.jpg 3 503 310 29 104 523 326 23 84 550 316 32 88
+/Users/nakulgarg/celestini/pos/201.jpg 3 550 309 29 99 517 323 20 91 499 307 18 107
+/Users/nakulgarg/celestini/pos/202.jpg 3 488 307 24 106 505 327 25 86 542 313 32 88
+/Users/nakulgarg/celestini/pos/203.jpg 3 542 315 26 104 0 0 0 0 495 324 45 95
+/Users/nakulgarg/celestini/pos/204.jpg 1 495 324 45 95
+/Users/nakulgarg/celestini/pos/205.jpg 1 495 324 45 95
+/Users/nakulgarg/celestini/pos/206.jpg 1 495 324 45 95
+/Users/nakulgarg/celestini/pos/207.jpg 1 520 313 36 101
+/Users/nakulgarg/celestini/pos/21.jpg 10 777 318 20 54 601 308 22 53 832 316 18 75 871 318 16 74 890 297 41 140 925 305 34 133 990 310 25 130 1015 299 34 140 1049 299 27 148 1076 382 28 65
+/Users/nakulgarg/celestini/pos/22.jpg 9 1088 374 28 72 1067 302 21 144 1026 299 41 147 1007 310 28 136 937 303 35 139 913 297 24 145 877 318 13 74 836 316 16 69 781 317 19 55
+/Users/nakulgarg/celestini/pos/23.jpg 9 600 308 21 53 781 321 20 51 835 315 29 75 884 315 19 88 919 296 34 147 947 298 38 150 1015 313 33 133 1048 303 30 149 1071 306 42 142
+/Users/nakulgarg/celestini/pos/24.jpg 9 1094 298 37 154 1062 299 35 162 1031 310 32 147 962 302 36 148 930 297 32 160 885 314 27 92 844 317 24 82 786 322 24 61 598 311 24 56
+/Users/nakulgarg/celestini/pos/25.jpg 10 598 311 27 56 598 311 27 56 787 318 22 58 851 313 25 92 896 317 21 84 934 306 49 148 979 291 32 163 1049 311 25 128 1076 308 35 141 1120 299 31 111
+/Users/nakulgarg/celestini/pos/26.jpg 10 1098 305 35 146 1068 312 29 147 987 296 39 161 958 292 38 176 899 312 37 96 858 313 24 90 794 322 20 57 600 311 22 51 638 317 8 38 647 319 10 34
+/Users/nakulgarg/celestini/pos/27.jpg 6 602 312 15 55 863 315 27 100 798 321 21 63 910 316 25 105 958 298 50 168 1000 285 38 182
+/Users/nakulgarg/celestini/pos/28.jpg 6 1022 302 32 172 983 295 45 173 915 318 27 101 871 319 29 100 800 328 25 62 596 316 30 58
+/Users/nakulgarg/celestini/pos/29.jpg 6 596 310 27 65 801 321 26 68 924 319 30 101 877 318 27 96 1002 302 42 170 1033 294 35 178
+/Users/nakulgarg/celestini/pos/3.jpg 8 861 330 22 75 846 328 19 78 811 326 12 77 811 403 7 1 786 324 32 80 742 333 14 34 768 329 16 51 610 322 18 44
+/Users/nakulgarg/celestini/pos/30.jpg 5 597 314 25 58 808 327 23 62 884 317 29 97 937 320 24 102 1014 297 50 164
+/Users/nakulgarg/celestini/pos/31.jpg 6 1038 296 41 178 1071 297 39 167 941 319 31 109 890 319 25 97 812 324 26 67 595 312 20 59
+/Users/nakulgarg/celestini/pos/32.jpg 5 589 310 34 70 814 327 25 63 902 320 29 98 959 321 24 104 1058 296 40 167
+/Users/nakulgarg/celestini/pos/33.jpg 4 965 318 28 122 911 314 32 117 822 328 24 63 589 313 35 62
+/Users/nakulgarg/celestini/pos/34.jpg 5 589 308 5 5 594 308 24 65 825 323 23 69 914 305 35 122 977 308 30 125
+/Users/nakulgarg/celestini/pos/35.jpg 4 982 314 34 132 927 318 32 116 829 327 30 71 590 309 30 59
+/Users/nakulgarg/celestini/pos/36.jpg 4 590 308 31 76 829 327 31 71 935 313 38 126 996 319 34 129
+/Users/nakulgarg/celestini/pos/37.jpg 4 1002 314 39 150 940 312 42 133 837 320 30 82 585 309 34 73
+/Users/nakulgarg/celestini/pos/38.jpg 4 585 309 28 76 838 318 35 88 1018 316 41 143 953 316 43 128
+/Users/nakulgarg/celestini/pos/39.jpg 4 953 312 54 132 1027 315 41 147 849 326 28 82 582 309 32 74
+/Users/nakulgarg/celestini/pos/4.jpg 7 867 333 23 74 850 330 15 75 813 327 18 84 793 327 20 84 767 333 19 46 740 333 17 40 607 328 18 38
+/Users/nakulgarg/celestini/pos/40.jpg 4 586 313 27 74 849 322 29 88 980 314 41 140 1045 317 35 144
+/Users/nakulgarg/celestini/pos/41.jpg 3 995 314 41 147 857 327 26 85 582 310 27 72
+/Users/nakulgarg/celestini/pos/42.jpg 3 582 301 27 84 861 325 30 88 1002 311 40 142
+/Users/nakulgarg/celestini/pos/43.jpg 4 1023 319 38 147 0 0 0 0 866 326 36 95 580 315 29 77
+/Users/nakulgarg/celestini/pos/44.jpg 3 580 309 30 83 884 331 25 96 1032 315 42 152
+/Users/nakulgarg/celestini/pos/45.jpg 3 1054 312 34 153 883 331 42 92 578 306 30 79
+/Users/nakulgarg/celestini/pos/46.jpg 2 571 297 39 87 894 321 28 104
+/Users/nakulgarg/celestini/pos/47.jpg 2 903 318 33 113 570 301 34 92
+/Users/nakulgarg/celestini/pos/48.jpg 3 572 286 33 96 912 316 37 113 912 316 37 113
+/Users/nakulgarg/celestini/pos/49.jpg 2 916 309 44 120 565 290 36 93
+/Users/nakulgarg/celestini/pos/5.jpg 6 876 324 26 83 854 322 22 85 819 320 23 83 798 321 21 82 745 329 16 35 611 317 16 38
+/Users/nakulgarg/celestini/pos/50.jpg 2 563 288 40 91 926 316 47 120
+/Users/nakulgarg/celestini/pos/51.jpg 2 926 315 58 121 562 292 29 95
+/Users/nakulgarg/celestini/pos/52.jpg 2 554 281 34 107 967 305 33 144
+/Users/nakulgarg/celestini/pos/53.jpg 2 981 309 42 147 549 286 44 100
+/Users/nakulgarg/celestini/pos/54.jpg 2 545 299 44 101 996 314 34 156
+/Users/nakulgarg/celestini/pos/55.jpg 2 1005 312 51 154 540 286 44 122
+/Users/nakulgarg/celestini/pos/56.jpg 1 1021 305 53 157
+/Users/nakulgarg/celestini/pos/57.jpg 2 1039 322 56 142 535 294 48 112
+/Users/nakulgarg/celestini/pos/58.jpg 2 528 297 44 109 1069 322 45 125
+/Users/nakulgarg/celestini/pos/59.jpg 1 525 292 43 112
+/Users/nakulgarg/celestini/pos/6.jpg 4 797 316 28 87 824 315 24 88 864 315 15 81 879 326 29 79
+/Users/nakulgarg/celestini/pos/60.jpg 1 517 280 48 128
+/Users/nakulgarg/celestini/pos/61.jpg 1 509 287 52 128
+/Users/nakulgarg/celestini/pos/62.jpg 1 507 293 52 129
+/Users/nakulgarg/celestini/pos/63.jpg 1 499 281 60 136
+/Users/nakulgarg/celestini/pos/64.jpg 1 496 281 55 146
+/Users/nakulgarg/celestini/pos/65.jpg 1 496 278 42 149
+/Users/nakulgarg/celestini/pos/66.jpg 2 488 277 50 154 619 312 19 56
+/Users/nakulgarg/celestini/pos/67.jpg 3 618 310 21 55 484 274 50 157 583 314 26 59
+/Users/nakulgarg/celestini/pos/68.jpg 4 583 311 26 62 324 269 23 77 469 275 57 149 620 310 21 53
+/Users/nakulgarg/celestini/pos/69.jpg 4 616 314 21 52 579 310 24 72 468 281 55 157 308 267 38 77
+/Users/nakulgarg/celestini/pos/7.jpg 6 750 313 13 38 781 310 14 56 798 306 32 74 826 301 23 89 862 301 26 87 890 303 21 91
+/Users/nakulgarg/celestini/pos/70.jpg 4 461 274 52 173 300 274 35 78 573 311 32 72 616 315 22 55
+/Users/nakulgarg/celestini/pos/71.jpg 4 615 312 19 57 571 309 34 72 440 273 61 173 289 264 37 78
+/Users/nakulgarg/celestini/pos/72.jpg 4 278 268 35 69 443 279 54 167 570 308 29 74 613 309 21 61
+/Users/nakulgarg/celestini/pos/73.jpg 4 611 308 19 64 566 310 30 72 431 281 60 170 266 267 35 70
+/Users/nakulgarg/celestini/pos/74.jpg 2 254 270 37 63 417 267 58 190
+/Users/nakulgarg/celestini/pos/75.jpg 4 411 263 64 191 245 270 37 62 561 315 29 71 607 312 24 65
+/Users/nakulgarg/celestini/pos/76.jpg 4 604 312 27 62 554 312 36 72 399 256 55 193 226 268 42 62
+/Users/nakulgarg/celestini/pos/77.jpg 2 373 247 76 208 605 310 23 65
+/Users/nakulgarg/celestini/pos/78.jpg 2 604 310 24 62 355 273 88 174
+/Users/nakulgarg/celestini/pos/79.jpg 3 342 252 79 193 601 313 24 57 547 326 28 65
+/Users/nakulgarg/celestini/pos/8.jpg 7 904 305 17 92 888 304 15 90 873 306 15 86 833 300 28 85 813 297 20 88 781 302 16 64 751 309 16 43
+/Users/nakulgarg/celestini/pos/80.jpg 3 323 261 85 182 602 313 20 61 537 319 39 75
+/Users/nakulgarg/celestini/pos/81.jpg 3 528 309 48 90 305 247 81 198 597 312 26 63
+/Users/nakulgarg/celestini/pos/82.jpg 3 594 309 27 67 529 316 38 91 288 251 79 195
+/Users/nakulgarg/celestini/pos/83.jpg 3 261 238 100 213 521 318 49 82 591 313 31 65
+/Users/nakulgarg/celestini/pos/84.jpg 3 586 313 36 70 517 323 45 85 241 242 85 195
+/Users/nakulgarg/celestini/pos/85.jpg 3 225 222 77 219 506 320 48 83 588 305 26 82
+/Users/nakulgarg/celestini/pos/86.jpg 3 586 305 28 86 512 318 31 103 199 217 70 207
+/Users/nakulgarg/celestini/pos/87.jpg 1 495 317 48 97
+/Users/nakulgarg/celestini/pos/88.jpg 2 580 303 32 76 496 313 42 109
+/Users/nakulgarg/celestini/pos/89.jpg 2 494 319 33 108 579 309 33 76
+/Users/nakulgarg/celestini/pos/9.jpg 4 811 288 31 93 839 294 23 83 878 296 24 83 897 299 35 83
+/Users/nakulgarg/celestini/pos/90.jpg 2 483 319 37 115 579 313 29 69
+/Users/nakulgarg/celestini/pos/91.jpg 2 575 313 37 79 470 326 47 113
+/Users/nakulgarg/celestini/pos/92.jpg 2 467 314 41 119 573 297 33 84
+/Users/nakulgarg/celestini/pos/93.jpg 2 574 302 35 88 459 317 38 124
+/Users/nakulgarg/celestini/pos/94.jpg 2 445 315 46 124 574 295 31 93
+/Users/nakulgarg/celestini/pos/95.jpg 2 565 308 40 80 433 321 51 139
+/Users/nakulgarg/celestini/pos/96.jpg 2 418 318 53 133 570 306 34 83
+/Users/nakulgarg/celestini/pos/97.jpg 3 569 292 35 97 893 315 24 105 400 310 72 130
+/Users/nakulgarg/celestini/pos/98.jpg 3 379 302 78 148 562 297 44 100 891 306 35 117
+/Users/nakulgarg/celestini/pos/99.jpg 3 897 311 38 121 562 299 43 105 370 320 76 139
