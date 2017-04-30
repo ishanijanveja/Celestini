@@ -3,7 +3,7 @@
 import cv2
  
 face_cascade = cv2.CascadeClassifier('ped.xml')
-vc = cv2.VideoCapture('1.mp4')
+vc = cv2.VideoCapture('video4.mp4')
  
 if vc.isOpened():
     rval , frame = vc.read()
@@ -22,12 +22,15 @@ while True:
     # car detection.
     #cars = face_cascade.detectMultiScale(frame, 1.7, 1)
     cars = face_cascade.detectMultiScale(frame, scaleFactor=1.2, minNeighbors=2,minSize=(26, 74),
-                                        maxSize=(70, 174))
+                                       maxSize=(70, 174))
+    #cars = face_cascade.detectMultiScale(frame, scaleFactor=3, minNeighbors=10,minSize=(26, 74),
+                                       #maxSize=(70, 174))
     ncars = 0
     for (x,y,w,h) in cars:
         area=w*h
         pos=x+(h/2)
         cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,255),2)
+        frame
         ncars = ncars + 1
         #print area
         if(pos>center):
